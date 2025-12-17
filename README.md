@@ -1,5 +1,4 @@
 
-```
 ## modern-langchain-1x-guide
 
 A hands-on, beginner-to-intermediate guide to **LangChain 1.x** --- covering prompts, chains, agents, tools, Tavily search, and real-world AI workflows with clean, well-explained examples.
@@ -55,7 +54,7 @@ By the end of this guide, you will understand:
 
 The repository follows this learning progression:
 
-```
+
 
 LLMs\
 ↓\
@@ -73,7 +72,7 @@ Tavily Search\
 ↓\
 Real-World AI Patterns
 
-```
+
 
 Each folder builds on the previous one.
 
@@ -81,7 +80,7 @@ Each folder builds on the previous one.
 
 ## 📁 Repository Structure
 
-```
+
 
 modern-langchain-1x-guide/\
 │\
@@ -99,7 +98,7 @@ modern-langchain-1x-guide/\
 ├── .env.example\
 └── README.md
 
-```
+
 
 ---
 

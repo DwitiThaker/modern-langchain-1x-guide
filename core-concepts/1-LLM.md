@@ -84,11 +84,3 @@ You are **not building a model**.\
 You are building the **system around the model**.
 
 That is why LangChain exists.
-
-* * * * *
-
-Next, we'll clarify:
-
-**2\. What an LLM does vs what LangChain adds on top**
-
-so you don't confuse the two while coding.
